@@ -1,5 +1,5 @@
-# Portfolio
-Data Science Portfolio
+# Petr Portfolio
+Machine Learning Portfolio
 
 ## [Project 1: Hubble Constant Measurement: Project Overview](https://github.com/PetrSmilek/Machine-Learning-Projects)
 
