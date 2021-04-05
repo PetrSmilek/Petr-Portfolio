@@ -12,5 +12,4 @@ Estimated Hubble's Constant which represents the rate of expansion of universe. 
 
 Monte Carlo Method used for evaluating an integral of function. In mathematics some functions do not have an elementary antiderivate so this numerical method turn out to be usefull. There are two methods of calculating the integral. Both of them are using randomly generated points in chosen bounds.
 
-![](/images/Monte_Carlo_Method_1.png)
 ![](/images/Monte_Carlo_Method_2.png)
